@@ -6,3 +6,6 @@ Untracked files:
 	Hot fix
 
 nothing added to commit but untracked files present (use "git add" to track)
+[update_script 191bd93] Remove js directory
+ 1 file changed, 8 insertions(+)
+ create mode 100644 0x01-git/Hot fix
